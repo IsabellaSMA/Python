@@ -1,2 +1,2 @@
 name = str(input('What´s your name? '))
-print('Hello, {name}, this is my greeting code ')
+print(f'Hello, {name}, this is my greeting code ')
