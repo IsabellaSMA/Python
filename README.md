@@ -9,4 +9,16 @@ File Names:
 - Cont- content taught in class
 - Ex- exercises - the lessons learned at my college
    
-  
+  Months:
+  - jan :january
+  - fev :february
+  - mar :march
+  - abr: april
+  - mai: may
+  - jun: june
+  - jul: july
+  - ago: agust
+  - set: september
+  - out: october
+  - nov: november
+  - dez: december
