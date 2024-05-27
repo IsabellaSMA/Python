@@ -1,5 +1,6 @@
 # Condicionals 18 march
-# Create a program that receives 3 grades from a student and calculates the average. To pass, the final grade must be greater than or equal to 7.0. The output of the program should say the score and whether the student passed.
+# Create a program that receives 3 grades from a student and calculates the average.
+# To pass, the final grade must be greater than or equal to 7.0. The output of the program should say the score and whether the student passed.
 
 nota1 = float(input('Digite uma nota: '))
 nota2 = float(input('Digite uma nota: '))

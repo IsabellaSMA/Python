@@ -1,4 +1,4 @@
-# Condicionals: if and else.
+# Condicionals: if and else. #A condição funcionará se uma das premissas forem verdadeiras.
 
 num1 = int(input('Digite um número: '))
 num2 = int(input('Digite um número: '))
