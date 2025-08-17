@@ -1,5 +1,11 @@
-<img width="50%" src= https://logodownload.org/wp-content/uploads/2019/10/python-logo-1.png >
+<img width="70%" src= https://logodownload.org/wp-content/uploads/2019/10/python-logo-1.png >
 
-<h1>Python</h1>
 
-<h2>Hello, I'm starting to learning Python. I created this repository to attach my projects and lessons from my degree.It contains lesson content and challenges, both didactic and personal</h2>
+
+<h3>Pt-Br</h3>
+Olá, este repositório possui codigos feitos em python, seja eles o que aprendi na faculdade, códigos realizados em cursos livres e/ou projetos de minha autoria.
+
+
+
+<h3>Eng-USA</h3>
+Hello, this repository contains codes written in Python, whether they are what I learned in college, codes created in free courses and/or projects of my own authorship.
