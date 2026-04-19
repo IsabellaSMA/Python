@@ -14,3 +14,13 @@ class pessoa:
 
 p1=pessoa('Maurício', 15972730832,80,78,'castanhos')
 p1.definicao()
+
+p2=pessoa('Débora', 19057865202,21,40,'castanhos')
+p2.definicao()
+
+p3=pessoa('Joana', 39581268737,15,67,'preto')
+p3.definicao()
+
+p4=pessoa('Samantha', 79685245316,32,60,'verdes')
+p4.definicao()
+
